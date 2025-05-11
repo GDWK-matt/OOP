@@ -1,0 +1,6 @@
+[School Student] Name: Ivan, Age: 14, Average grade: 6.7
+[College Student] Name: Maria, Age: 18, Average grade: 6.8
+[University Student] Name: Andrei, Age: 21, Average grade: 7.2
+[School Student] Name: Oleg, Age: 15, Average grade: 5.9
+[College Student] Name: Elena, Age: 19, Average grade: 7.7
+[University Student] Name: Pavel, Age: 22, Average grade: 8.6

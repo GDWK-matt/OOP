@@ -1,0 +1,8 @@
+﻿  Main.cpp
+D:\1Laby po C\Oopip4\Main.cpp(101,39): warning C4305: аргумент: усечение из "double" в "float"
+D:\1Laby po C\Oopip4\Main.cpp(102,41): warning C4305: аргумент: усечение из "double" в "float"
+D:\1Laby po C\Oopip4\Main.cpp(103,45): warning C4305: аргумент: усечение из "double" в "float"
+D:\1Laby po C\Oopip4\Main.cpp(104,39): warning C4305: аргумент: усечение из "double" в "float"
+D:\1Laby po C\Oopip4\Main.cpp(105,41): warning C4305: аргумент: усечение из "double" в "float"
+D:\1Laby po C\Oopip4\Main.cpp(106,44): warning C4305: аргумент: усечение из "double" в "float"
+  Oopip4.vcxproj -> D:\1Laby po C\Oopip4\x64\Debug\Oopip4.exe

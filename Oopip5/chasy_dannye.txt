@@ -1,0 +1,4 @@
+Marka: Rolex, Cena: 1e+06 rubley
+Marka: Apple Watch, Cena: 50000 rubley
+Marka: Omega, Cena: 800000 rubley
+Marka: Casio, Cena: 10000 rubley
