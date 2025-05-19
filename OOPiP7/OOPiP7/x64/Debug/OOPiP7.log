@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\1Laby po C\OOPiP7\main.cpp(264,35): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+D:\1Laby po C\OOPiP7\main.cpp(264,35): warning C4244:         with
+D:\1Laby po C\OOPiP7\main.cpp(264,35): warning C4244:         [
+D:\1Laby po C\OOPiP7\main.cpp(264,35): warning C4244:             T=int
+D:\1Laby po C\OOPiP7\main.cpp(264,35): warning C4244:         ]
+D:\1Laby po C\OOPiP7\main.cpp(265,38): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+D:\1Laby po C\OOPiP7\main.cpp(265,38): warning C4244:         with
+D:\1Laby po C\OOPiP7\main.cpp(265,38): warning C4244:         [
+D:\1Laby po C\OOPiP7\main.cpp(265,38): warning C4244:             T=int
+D:\1Laby po C\OOPiP7\main.cpp(265,38): warning C4244:         ]
+  OOPiP7.vcxproj -> D:\1Laby po C\OOPiP7\x64\Debug\OOPiP7.exe

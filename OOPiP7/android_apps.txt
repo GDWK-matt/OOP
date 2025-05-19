@@ -1,0 +1,24 @@
+=== APPLICATIONS FOR Android ===
+
+App: Google Chrome
+  Platform: Android (v12.0)
+  Developer: Google LLC (USA, founded 1998)
+  Price: $0.00
+  Rating: 4.50/5 (5000000 reviews)
+----------------------
+Game: Fortnite
+  Platform: Android (v12.0)
+  Developer: Epic Games (USA, founded 1991)
+  Price: $9.90
+  Rating: 4/5 (10000000 reviews)
+  Genre: Battle Royale
+  Multiplayer: Yes
+----------------------
+Game: Blasphemous
+  Platform: Android (v12.0)
+  Developer: Game Kitchen (Spain, founded 2011)
+  Price: $10.00
+  Rating: 4/5 (50000000 reviews)
+  Genre: Metroidvania
+  Multiplayer: No
+----------------------

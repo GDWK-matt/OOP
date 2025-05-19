@@ -1,0 +1,8 @@
+﻿  Main.cpp
+D:\1Laby po C\OOPiP6\Main.cpp(79,19): warning C4584: D3: базовый класс "B2" уже является базовым классом для "D2"
+      D:\1Laby po C\OOPiP6\Main.cpp(26,7):
+       см. объявление "B2"
+      D:\1Laby po C\OOPiP6\Main.cpp(62,7):
+       см. объявление "D2"
+  
+  OOPiP6.vcxproj -> D:\1Laby po C\OOPiP6\x64\Debug\OOPiP6.exe
